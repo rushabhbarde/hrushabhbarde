@@ -1,0 +1,75 @@
+body{
+    background-image: url(/background.png);
+    background-size:cover;
+    background-attachment: fixed;
+    margin: 0%;
+}
+#logo{
+    font-size: 36px;
+    border: 2px solid #62868d;
+    padding: 8px;
+    border-radius: 8px;
+}
+.menu-item{
+    font-size: 18px;
+    margin: 8px;
+    float: right;
+    margin-right: 20px;
+}
+#header1{
+    background-color: #f9f3e3;
+    margin: 8px;
+    padding: 16px;
+    border-radius: 8px;
+    width: auto;
+}
+.hyper1{
+    color: #62868d;
+    text-decoration: none;
+    cursor: pointer;
+}
+.hyper1:hover{
+    padding: 10px;
+    color: #d78b7d;
+}
+#hyper0{
+    color: #d78b7d;
+    text-decoration: none;
+}
+#heading3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+#heading4{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 70px;
+    display: inline;
+    letter-spacing: 4px;
+}
+#body1{
+    background-color: #f9f3e3;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 8px;
+    height: auto;
+}
+#intro1{
+    font-size: 24px;
+    font-family: 'Oswald', sans-serif;
+    line-height: 1.2;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+#body2{
+   margin: 50px;
+   margin-bottom: 220px;
+}
+#intro2{
+    font-size: 20px;
+    text-decoration: none ;
+    color:#d78b7d;
+}
+#intro2:hover{
+    color: #62868d;
+    padding: 10px;
+}
