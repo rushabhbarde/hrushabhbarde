@@ -9,6 +9,7 @@ body{
     border: 2px solid #62868d;
     padding: 8px;
     border-radius: 8px;
+    margin: 10px;
 }
 .menu-item{
     font-size: 18px;
