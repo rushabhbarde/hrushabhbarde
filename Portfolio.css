@@ -9,7 +9,6 @@ body{
     border: 2px solid #62868d;
     padding: 8px;
     border-radius: 8px;
-    margin: 10px;
 }
 .menu-item{
     font-size: 18px;
@@ -37,8 +36,6 @@ body{
 #hyper0{
     color: #d78b7d;
     text-decoration: none;
-    padding: 5px;
-    margin-top: 10px;
 }
 #heading3{
     font-family: 'Dancing Script', cursive;
